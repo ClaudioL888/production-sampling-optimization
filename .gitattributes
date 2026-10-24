@@ -1,9 +1,5 @@
-* text=auto
-*.py text eol=lf
-*.md text eol=lf
-*.tex text eol=lf
-*.csv text eol=lf
-*.json text eol=lf
+# Preserve original archive bytes so SOURCE_MANIFEST hashes survive clone/push.
+* -text
 *.pdf binary
 *.png binary
 *.pptx binary
