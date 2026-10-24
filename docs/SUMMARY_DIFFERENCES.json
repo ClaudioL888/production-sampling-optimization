@@ -1,0 +1,38 @@
+[
+  {
+    "parameter": "P_std",
+    "scenario": "scenario_1",
+    "archived": {
+      "parameter": "P_std",
+      "scenario": "scenario_1",
+      "param_value": "0.15",
+      "mean_profit": "389764.892578125",
+      "ci_95": "48.89372064618395"
+    },
+    "recomputed": {
+      "parameter": "P_std",
+      "scenario": "scenario_1",
+      "param_value": "0.1",
+      "mean_profit": "265756.5",
+      "ci_95": "76.16321427040747"
+    }
+  },
+  {
+    "parameter": "P_std",
+    "scenario": "scenario_2",
+    "archived": {
+      "parameter": "P_std",
+      "scenario": "scenario_2",
+      "param_value": "0.01",
+      "mean_profit": "376743.394140625",
+      "ci_95": "51.9545563518072"
+    },
+    "recomputed": {
+      "parameter": "P_std",
+      "scenario": "scenario_2",
+      "param_value": "0.15",
+      "mean_profit": "265748.3",
+      "ci_95": "77.20611417238923"
+    }
+  }
+]

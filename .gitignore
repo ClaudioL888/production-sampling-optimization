@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.vscode/
+runs/
+*.log
+*.aux
+*.out
+*.synctex.gz
+.DS_Store
+Thumbs.db
+.env
+.env.*

@@ -1,0 +1,20 @@
+# 代码文件说明
+
+## 1. efficacy_function.py
+单词抽样检验的效度函数计算
+
+## 2. v_optimizer.py
+评价指标V的优化计算
+
+## 3. optimize1.py
+这个文件使用遗传算法(GA)实现双重抽样方案的参数优化
+
+## 4. optimize1_3.py
+这个文件使用差分进化算法实现双重抽样方案的参数优化，绝大部分双重抽样的数据来自这个算法
+
+## 图像文件说明
+- V_vs_n_k1_*_k2_*.png：不同权重下的评价指标V与样本量n的关系曲线
+- en_vs_k.png, en_vs_ktarget.png：期望抽样次数与效度的关系
+- n1_vs_ktarget.png：最优第一阶段样本量与目标效度的关系
+- effectiveness_vs_p0.png：效度与次品率的关系
+- K_n.png, K_n_p.png, K_n_p_p.png：效度函数的各种可视化
